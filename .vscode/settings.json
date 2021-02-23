@@ -1,2 +1,6 @@
 {
+  "editor.formatOnSave": true,
+  "rust-analyzer.cargo.allFeatures": true,
+  "rust-analyzer.procMacro.enable": true,
+  "rust-analyzer.cargo.loadOutDirsFromCheck": true
 }
